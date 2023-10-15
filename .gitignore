@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+pids/
+logs/
+results/
+coverage/
+.nyc_output/
+
+# Testing
+*.log
+*.swp
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Config files
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
